@@ -263,7 +263,6 @@ AI struggled with Streamlit session state management; resolved manually.
 Dependency conflicts (e.g., codecarbon) were handled by downgrading sentence-transformers.
 
 
-
 Technical Decisions
 
 Embedding Model: Chose all-MiniLM-L6-v2 for fast, lightweight embeddings suitable for small datasets.
@@ -273,7 +272,6 @@ Streamlit: Chosen for rapid frontend development and simplicity.
 Trade-offs:
 Prioritized simplicity (embedding search) over complex LLMs for faster setup.
 Used local models to ensure data privacy.
-
 
 
 Troubleshooting Tips
@@ -290,10 +288,6 @@ python test.py
 
 
 
-GitHub Repository
-The source code is available at: https://github.com/tyagaraj-raj-2007/hr_chatbot.git 
-Demo
-
 Local Demo: Run the setup instructions and access at http://localhost:8501.
 Screenshots: (Add screenshots or a deployed demo link if available.)
 
@@ -303,4 +297,3 @@ Add support for local LLMs (e.g., Ollama with Llama) for advanced responses.
 Implement FAISS for faster vector search with larger datasets.
 Add filters for availability and experience years in the search endpoint.
 Deploy to Streamlit Cloud or Vercel for public access.
-
