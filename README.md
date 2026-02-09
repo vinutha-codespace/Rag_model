@@ -12,7 +12,7 @@ Use a sample dataset of 15 employees stored in employees.json.
 
 The project is located at ..\Desktop\hr_chatbot
 Project Structure
-The project directory (hr_chatbot) contains:
+The project directory contains:
 
 data/employees.json: Sample employee dataset.
 app/main.py: FastAPI backend with API endpoints.
@@ -178,11 +178,7 @@ Contains the same content as this README but formatted for PDF output.
 Can be compiled with pdflatex to produce a professional document.
 
 Setup Instructions
-To run the project on Windows with Python 3.12.4:
-
-Clone the repository:git clone https://github.com/tyagaraj-raj-2007/hr_chatbot.git
-cd hr_chatbot
-
+To run the project on linux with Python 3.12.4:
 
 Create and activate a virtual environment:python -m venv venv
 .\venv\Scripts\activate
@@ -307,3 +303,4 @@ Add support for local LLMs (e.g., Ollama with Llama) for advanced responses.
 Implement FAISS for faster vector search with larger datasets.
 Add filters for availability and experience years in the search endpoint.
 Deploy to Streamlit Cloud or Vercel for public access.
+
