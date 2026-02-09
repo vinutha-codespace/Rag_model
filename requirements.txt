@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+sentence-transformers==3.1.1
+transformers==4.44.2
+codecarbon==2.6.0
+numpy==1.26.4
+scikit-learn==1.5.2
+streamlit==1.39.0
+requests==2.32.3
+pydantic==2.9.2

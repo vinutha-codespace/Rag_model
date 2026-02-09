@@ -1,0 +1,124 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "skills": ["Python", "React", "AWS"],
+            "experience_years": 5,
+            "projects": ["E-commerce Platform", "Healthcare Dashboard"],
+            "availability": "available"
+        },
+        {
+            "id": 2,
+            "name": "Dr. Sarah Chen",
+            "skills": ["TensorFlow", "PyTorch", "Medical Data Processing"],
+            "experience_years": 6,
+            "projects": ["Medical Diagnosis Platform"],
+            "availability": "available"
+        },
+        {
+            "id": 3,
+            "name": "Michael Rodriguez",
+            "skills": ["scikit-learn", "pandas", "HIPAA Compliance"],
+            "experience_years": 4,
+            "projects": ["Patient Risk Prediction System"],
+            "availability": "available"
+        },
+        {
+            "id": 4,
+            "name": "Emily Davis",
+            "skills": ["React Native", "JavaScript", "TypeScript"],
+            "experience_years": 3,
+            "projects": ["Mobile Banking App"],
+            "availability": "unavailable"
+        },
+        {
+            "id": 5,
+            "name": "James Lee",
+            "skills": ["AWS", "Docker", "Kubernetes"],
+            "experience_years": 7,
+            "projects": ["Cloud Infrastructure Migration"],
+            "availability": "available"
+        },
+        {
+            "id": 6,
+            "name": "Priya Sharma",
+            "skills": ["Python", "Django", "PostgreSQL"],
+            "experience_years": 4,
+            "projects": ["Inventory Management System"],
+            "availability": "available"
+        },
+        {
+            "id": 7,
+            "name": "Robert Kim",
+            "skills": ["React", "Node.js", "MongoDB"],
+            "experience_years": 5,
+            "projects": ["Social Media Platform"],
+            "availability": "unavailable"
+        },
+        {
+            "id": 8,
+            "name": "Linda Wu",
+            "skills": ["Machine Learning", "Python", "R"],
+            "experience_years": 6,
+            "projects": ["Fraud Detection System"],
+            "availability": "available"
+        },
+        {
+            "id": 9,
+            "name": "Thomas Brown",
+            "skills": ["Java", "Spring Boot", "AWS"],
+            "experience_years": 8,
+            "projects": ["Enterprise CRM"],
+            "availability": "available"
+        },
+        {
+            "id": 10,
+            "name": "Anita Patel",
+            "skills": ["React Native", "Firebase", "GraphQL"],
+            "experience_years": 3,
+            "projects": ["Fitness Tracking App"],
+            "availability": "available"
+        },
+        {
+            "id": 11,
+            "name": "David Miller",
+            "skills": ["Python", "Flask", "Docker"],
+            "experience_years": 5,
+            "projects": ["API Gateway"],
+            "availability": "available"
+        },
+        {
+            "id": 12,
+            "name": "Sophia Nguyen",
+            "skills": ["TensorFlow", "Keras", "Healthcare"],
+            "experience_years": 4,
+            "projects": ["Medical Imaging Analysis"],
+            "availability": "available"
+        },
+        {
+            "id": 13,
+            "name": "Carlos Gomez",
+            "skills": ["AWS", "Lambda", "DynamoDB"],
+            "experience_years": 6,
+            "projects": ["Serverless E-commerce"],
+            "availability": "unavailable"
+        },
+        {
+            "id": 14,
+            "name": "Rachel Adams",
+            "skills": ["Python", "Machine Learning", "Healthcare"],
+            "experience_years": 5,
+            "projects": ["Patient Data Analytics"],
+            "availability": "available"
+        },
+        {
+            "id": 15,
+            "name": "Mark Wilson",
+            "skills": ["React", "TypeScript", "AWS"],
+            "experience_years": 4,
+            "projects": ["Real-time Dashboard"],
+            "availability": "available"
+        }
+    ]
+}

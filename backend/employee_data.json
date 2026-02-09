@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": ["Python", "AWS", "Docker"],
+      "experience_years": 5,
+      "projects": ["Healthcare Dashboard", "E-Commerce"],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "Raj Verma",
+      "skills": ["React Native", "Node.js"],
+      "experience_years": 3,
+      "projects": ["Mobile Banking App"],
+      "availability": "available"
+    },
+    {
+      "id": 3,
+      "name": "Sarah Chen",
+      "skills": ["Machine Learning", "PyTorch", "Healthcare AI"],
+      "experience_years": 6,
+      "projects": ["Medical Diagnosis Platform"],
+      "availability": "available"
+    }
+  ]
+}
